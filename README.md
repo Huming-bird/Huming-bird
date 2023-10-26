@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Huming-bird
-- 👀 I’m interested in Python, DAta Science, Artificial Intelligence, Software engineering
-- 🌱 I’m currently learning Software Engineering at ALX, Python and Data Science at NOUN (Africa Center for Excellence on Technology Enhanced Learning), associate Computer science degree at University of the People USA
+- 👀 I’m interested in Python, Data Science, Artificial Intelligence, Software engineering
+- 🌱 I’m currently learning Software Engineering at ALX.
+- I'm a certified Data Science Professional from DataCamp
 - 💞️ I’m looking to collaborate on various projects
 - 📫 You can reach me on +2348127929274
 
